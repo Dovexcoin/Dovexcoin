@@ -1,0 +1,24 @@
+{
+  "type": 3,
+  "id": "EvAkAdonRHXAneLG1y1pnoRqym4KETNZgzwz9iWEPvG7",
+  "sender": "3PNgMwhLF8h9sRgbjSAqg8fAAHzEGZjBZXs",
+  "senderPublicKey": "AcXWoYQ2DCSzKT244QJut9zqKTmxKYYhPijpZhc63hAh",
+  "fee": 100000000,
+  "feeAssetId": null,
+  "timestamp": 1633836071478,
+  "proofs": [
+    "61gg4WyPYa5q32AUmD94XuDgHXm414MJCZnVTQQ2mzYUAdZaoGzYLfPBHDmg5m7gDY5GF7pp3js1SsiB7tqukLEm"
+  ],
+  "version": 2,
+  "assetId": "EvAkAdonRHXAneLG1y1pnoRqym4KETNZgzwz9iWEPvG7",
+  "name": "Dovexcoin",
+  "quantity": 1000000000000,
+  "reissuable": false,
+  "decimals": 0,
+  "description": "Dovexcoin is a crypto that was built to become the main token in the circulation of startups built by the Dovexcoin team using swap technology and making it possible to accept all coins or tokens as a transaction tool in the startup project.",
+  "script": null,
+  "chainId": 87,
+  "height": 2804623,
+  "applicationStatus": "succeeded",
+  "spentComplexity": 0
+}
